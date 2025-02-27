@@ -4,8 +4,11 @@ This project implements a hand gesture-based volume control system using OpenCV,
 Features
 
 Hand Tracking: Uses MediaPipe to detect and track a single hand.
+
 Volume Control: Adjusts system volume based on the distance between the thumb and index finger.
+
 Real-time Processing: Ensures smooth and responsive gesture control.
+
 Visual Feedback: Displays a volume bar and percentage overlay on the webcam feed.
 
 Requirements
